@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ora16lo6eu908t53?svg=true)](https://ci.appveyor.com/project/MaksimNosov/gradle-6-2-4-bdd-task-2-cucumber)
